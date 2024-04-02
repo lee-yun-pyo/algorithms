@@ -7,3 +7,6 @@
 
 ### ✅ 자료 구조
 - [우선순위 큐 구현](https://github.com/lee-yun-pyo/algorithms/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90%20%EA%B5%AC%ED%98%84.js)
+
+### ✅ 수학
+- [최대 공약수 구하기 (유클리드 호제법)](https://github.com/lee-yun-pyo/algorithms/blob/main/%EC%88%98%ED%95%99/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95.js)
